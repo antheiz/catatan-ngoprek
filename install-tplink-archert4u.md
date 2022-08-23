@@ -1,7 +1,7 @@
 # Menginstall TP-Link Archer T4U Driver pada Linux Ubuntu
 ---
 Langkah-langkah :
-- Pastikan USB TP-Link tidak terpasang komputer
+- Pastikan USB TP-Link tidak terpasang pada komputer
 - Buka Terminal
 - Ketik Perintah:
     - ```git clone https://github.com/cilynx/rtl88x2bu.git```
