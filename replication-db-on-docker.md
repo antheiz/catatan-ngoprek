@@ -4,11 +4,6 @@ Konfigurasi MySQL Replication Master ⭢ Slave menggunakan Docker Images
 
 **Replikasi database adalah proses menyalin data dari suatu Database server (the master) ke suatu atau lebih Database server lainnya (the slave).**
 
-## Referensi
-
-- https://github.com/wagnerjfr/mysql-master-slaves-replication-docker
-- https://github.com/wagnerjfr/docker-machine-master-slave-mysql-replication
-
 ## 1. Ringkasan
 
 Kita akan memulai dengan membuat suatu Docker network dengan nama **replicanet**, kemudian dilanjutkan 
@@ -292,3 +287,10 @@ $ docker network rm replicanet
 ```
 $ docker rmi mysql/mysql-server:8.0
 ```
+
+
+
+## Referensi
+
+- https://github.com/wagnerjfr/mysql-master-slaves-replication-docker
+- https://github.com/wagnerjfr/docker-machine-master-slave-mysql-replication
