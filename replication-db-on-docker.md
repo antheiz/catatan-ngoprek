@@ -55,7 +55,7 @@ Untuk melihat semua docker network:
 $ docker network ls
 ```
 
-## 4. Membuat 2 MySQL Container
+## 4. Membuat MySQL Container
 
 Jalankan perintah berikut ini pada terminal:
 
