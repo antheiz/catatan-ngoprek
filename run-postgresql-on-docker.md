@@ -12,3 +12,6 @@
 
 * Enter to postgres cli
     - psql -h localhost -U postgres
+    - 
+* Step 6 (optional) -  Create container for PGAdmin
+    - docker run --name pgadmin -p 5050:80 -e "PGADMIN_DEFAULT_EMAIL=admin@foo.com" -e "PGADMIN_DEFAULT_PASSWORD=rahasia" -d dpage/pgadmin4
