@@ -5,3 +5,4 @@ Daftar catatan:
 - [Run Database PostgreSQL on Docker](run-postgresql-on-docker.md)
 - [Guide for Install ZSH Suggestion on Linux Ubuntu](install-zsh-suggestion.md)
 - [Replikasi Database menggunakan Docker MySQL Images](replication-db-on-docker.md)
+- [Panduan Integrasi Project Astrojs dengan Supabase](integrating-supabase-with-astro.md)
